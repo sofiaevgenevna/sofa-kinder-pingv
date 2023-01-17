@@ -1,0 +1,37 @@
+grid {
+      background-color: #098;
+      border-radius: 5px;
+      margin: 1px;  height: 140px;
+    }
+.grid {
+      border: 8px solid #1234; width: 650px; 
+      display: grid;
+      grid-template-columns: repeat(4, 150px);
+      grid-template-rows: repeat(4, 150px);
+    } 
+    .grid > * {
+      background-color: #098;
+      border-radius: 5px;
+      margin: 1px;  height: 145px;
+    }
+    img{
+      border-radius: 5px;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+    p{
+      padding-left: 5px;
+      padding-right: 5px;
+    }
+.oblast-1 {overflow-y: scroll;}
+.oblast-2 {
+      grid-row-start: 1;
+      grid-row-end: 2;
+      grid-column-start: 1;
+      grid-column-end: 5;
+    }
+.oblast-3 { grid-row-start: 4;
+      grid-row-end: 5;
+      grid-column-start: 3;
+      grid-column-end: 5;}

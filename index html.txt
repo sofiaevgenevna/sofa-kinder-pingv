@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>grid</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+<div class="grid">
+    <div><p>Glif wonderful day!</p></div>
+<div> <img src="https://n1s2.hsmedia.ru/3a/7c/7d/3a7c7d9553c7a7e9453b762125f65ca1/400x600_1_0a034ea4588719636e94b98fbc457096@2400x3600_0xac120003_20832341551615769473.jpg"> </div>
+    <div> <img src="https://cdn.shopify.com/s/files/1/0608/0777/4416/products/IMG_3710_7462cd23-8e2d-47a2-82bb-8bbe46271af2_800x.jpg?v=1638739095"></div>
+    <div>Самые трендовые и свежие идеи...</div>
+    <div> <img src="https://img.joomcdn.net/1b3dddf352de62e2de913d221ef045dc183be96c_original.jpeg"></div>
+    <div>На каждый день</div>
+    <div>И на особенное событие</div>
+    <div> <img src="https://avatars.dzeninfra.ru/get-zen_doc/3373796/pub_5fc53b56e8c5ae189c43d9ad_5fc53f014fa3013b23cc3acd/scale_1200"></div>
+     <div> <img src="https://thumbs.dreamstime.com/z/%D0%BE%D0%B4%D0%B8%D0%BD-%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%B9-%D1%82%D1%8E%D0%BB%D1%8C%D0%BF%D0%B0%D0%BD-%D0%B2-%D0%B1%D0%B5%D0%BB%D0%BE%D0%BC-%D0%BF%D0%BE%D0%BB%D0%B5-114995351.jpg"></div>
+    <div> <img src="https://ae01.alicdn.com/kf/H38667aed0a5c4cbe9a226cc741938698s.jpg"></div>
+   
+     <div><p> Постоянные конкурсы, розыгрыши, недели скидок и многое другое</p></div>
+    <div class="oblast-1"><p>Побалуйте себя, своих друзей, родителей и знакомых. Вы можете приобрести эти вещи в нашем бутике или на нашем сайте. </p></div>
+    <div><p>Что делает жизнь лучше? - небольшая покупка по душе, которая принесет бурю эмоций и хорошего настроения! </p></div>
+    <div class="oblast-3"> <img src="https://tkaney.ru/wp-content/uploads/2021/05/otbelivanie-belyh-noskov.jpg"></div>
+    <div class="oblast-2"> <img src="https://oir.mobi/uploads/posts/2021-04/1618900468_13-oir_mobi-p-pole-belikh-tsvetov-tsveti-krasivo-foto-15.jpg"></div>
+  <div><p>Наши контакты: 8-903-240-49-28 Звонить можно с 9:00 до 22:00. Адрес: Торговый вал, 23к1  </p></div>
+  </div>
+</body>
+</html>
+
+
+								
