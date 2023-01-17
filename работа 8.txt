@@ -1,0 +1,58 @@
+<html>
+<head>
+   <style>
+<title>Grid</title>
+  </style>
+</head>
+<body>
+<div class="grid"><div><p>Что такое уют и любовь к дому?</p></div>
+    <div> <img src="https://phonoteka.org/uploads/posts/2022-02/1644938092_37-phonoteka-org-p-komnatnie-rasteniya-fon-41.jpg"> </div>
+    <div> <img src="https://avatars.dzeninfra.ru/get-zen_doc/1718877/pub_5f6b752947996f15c0e94fbb_5f6b75b747996f15c0ea7d8d/scale_1200"></div>
+    <div><p>Это ведь не просто убранные в шкаф вещи и не просто приоткрытое окно позволяющее ветру играть с тюлью</p></div>
+    <div> <img src="https://i.pinimg.com/originals/1b/8c/3b/1b8c3bf29e25932f70cae6c634f4556c.jpg"></div>
+    <div><p>Это отражение вас самих, тысячи мелких вещиц, из которых состоите вы сами</p></div>
+    <div><p>Но в первую очередь — это ваша любовь. К себе, к дому, к стенам, к касаниям, ко взглядам...</p></div>
+    <div> <img src="https://architecture-and-design.ru/wp-content/uploads/0/8/9/08972f1bf9113e472b69ca2d31cc5aec.jpeg"></div>
+    <div> <img src="https://avatars.mds.yandex.net/i?id=24ce48e987101e44354827bf283a1980-5883235-images-thumbs&n=13"></div>
+    <div><p>Необходимость в уюте нуждается даже животным</p></div>
+    <div><p>Например, кошки. Куда они забираются постоянно? Где спят?</p></div>
+    <div><p>Там, где им угатованно обстоятельствами</p></div>
+    <div><p>Мы и должны являться этими обстоятельствами</p></div>
+    <div> <img src="https://cdn.botanichka.ru/wp-content/uploads/2016/11/houseplants-1.jpg"></div>
+    <div> <img src="https://avatars.mds.yandex.net/i?id=e0c49a39485014a181c34b6eca39a755-4549999-images-thumbs&n=13"></div>
+  <div><p> Стань обстоятельством сейчас, твори уют. Сайт: hhhp/yutwithplants</p></div>
+  </div>
+</body>
+</html>
+
+
+
+
+
+
+                                                                 ccs
+.body{
+      font-family: Arial, Helvetica, sans-serif; 
+      font-size: 15px;
+    }
+    .grid {
+      border: 5px solid #090;
+      display: grid;
+      grid-template-columns: repeat(4, 150px);
+      grid-template-rows: repeat(4, 150px);
+    } 
+    .grid > * {
+      background-color: #A4BE7B;
+      border-radius: 5px;
+      margin: 1px;
+    }
+    img{
+      border-radius: 5px;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+    p{
+      padding-left: 5px;
+      padding-right: 5px;
+    }
